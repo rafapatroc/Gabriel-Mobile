@@ -1,0 +1,10 @@
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\build.props
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\adb.props
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\Notes.Android.csprojAssemblyReference.cache
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\resourcepaths.cache
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\res.flag
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\R.cs.flag
+C:\Code\PatrocToc\Notes.Android\obj\Debug\90\Notes.Android.csproj.CoreCompileInputs.cache
